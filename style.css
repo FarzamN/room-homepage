@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+}
+.pl_0{
+    padding-left: 0!important;
+}
+.pr_0{
+    padding-right: 0!important;
+}
+.font-0_5rem{font-size: 0.8rem;}.font-1rem{font-size: 1rem;}.font-1_3rem{font-size: 1.1rem;}.font-1_5rem{font-size: 1.5rem;}.font-1_7rem{font-size: 1.7rem;}.font-2rem{font-size: 2rem;}.font-3rem{font-size: 3rem;}.font-3_5rem{font-size: 3.5rem;}
+.carousel-item{
+    height: 50vh;
+}
+.top-pad-1{
+    padding-top: 3.3rem;
+}
+.top-pad-2{
+    padding-top: 3rem;
+}
+.mr-0{
+    margin-right: 0!important;
+}
+.left-pad{
+    padding-left: 5rem;
+}
+.btn-link{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+}
+.font-bold{
+    font-weight: 600;
+}
+.w-80{
+    width: 80%;
+}
+.line-hight{
+    line-height:1.5rem;
+}
+.text-dark{
+    color: #000!important;
+}
+.hover-to-gray:hover{
+    color: gray;
+}
+.hover-to-gray-img:hover{
+    filter: grayscale(80%);
+}
+.height{
+    height: 12.2rem;
+}
+.let-space{
+    letter-spacing:0.7rem;
+}
+.slider {
+    width: 60px;
+    height: 50px;
+    padding: 5px;
+}
+.carousel-control-next-icon{
+    background-size: 25px 25px;
+    /* background-position: right; */
+}
+.carousel-control-prev-icon{
+    background-size: 25px 25px;
+    /* background-position: left; */
+}
+.text-gray{color: #acacac;}
+.font-no-bold{
+    font-weight:normal;
+}
+.carodiv{
+    position: relative;
+    left: 50%;
+    bottom: 60px;
+    max-width: 145px;
+    background-color: #000000;
+    max-height: 60px;
+    padding: 5px 10px;
+}
+.carousel-item{
+    height:inherit;
+}
+.nnhight{
+    max-height: 427px;
+}
+.pos-abs{
+    position: absolute;
+    z-index: 10;
+}
